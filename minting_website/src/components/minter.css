@@ -1,0 +1,23 @@
+.uploadButton {
+    background-color: #b9ecfc;
+    cursor: pointer;
+    padding: 8px 12px;
+    border-radius: 6px;
+    font-size: 16px;
+    margin-right: 6px;
+    width: 100%;
+    display: block;
+}
+
+.uploadButton:hover {
+    background-color: #8486f1;
+    color: #fff;
+}
+
+.chooseFile {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding-top: 2.0rem;
+    padding-bottom: 1.8rem;
+}

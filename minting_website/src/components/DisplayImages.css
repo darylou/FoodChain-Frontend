@@ -1,0 +1,17 @@
+.DisplayImages {
+    position: relative;
+    max-height: 200px;
+    justify-content: center;
+
+}
+
+.title {
+    font-size: 36px;
+    text-align: center;
+    align-self: center;
+    cursor: default;
+    color: #1A3263;
+    font-family: Verdana;
+    padding-top: 1.5rem;
+    font-weight: 600;
+}
