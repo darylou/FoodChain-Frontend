@@ -30,7 +30,7 @@ function Minter(){
       await file1.saveIPFS();
       const file1url = file1.ipfs();
 
-      // generate metadata and save to ipfs
+      // generate metadata and save to ipfs 
       const metadata = {
         image: file1url,
       };
